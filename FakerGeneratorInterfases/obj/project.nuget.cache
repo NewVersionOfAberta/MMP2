@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kz8Cz6qw5YqKd2LacWdG2sOwv9WxdI9t4MtgfFD4U0Am+Gio38N6x5uYYqqcbZ34FdK2nT8KAAjN9TFVsBTm9A==",
+  "success": true,
+  "projectFilePath": "E:\\University_needs\\СПП\\lab2\\FakerGeneratorInterfases\\FakerGeneratorInterfases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

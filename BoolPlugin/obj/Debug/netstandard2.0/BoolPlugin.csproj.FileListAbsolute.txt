@@ -1,0 +1,12 @@
+E:\University_needs\СПП\lab2\BoolPlugin\obj\Debug\netstandard2.0\BoolPlugin.AssemblyInfoInputs.cache
+E:\University_needs\СПП\lab2\BoolPlugin\obj\Debug\netstandard2.0\BoolPlugin.AssemblyInfo.cs
+E:\University_needs\СПП\lab2\BoolPlugin\obj\Debug\netstandard2.0\BoolPlugin.csproj.CoreCompileInputs.cache
+E:\University_needs\СПП\lab2\BoolPlugin\bin\Debug\netstandard2.0\BoolPlugin.deps.json
+E:\University_needs\СПП\lab2\BoolPlugin\bin\Debug\netstandard2.0\BoolPlugin.dll
+E:\University_needs\СПП\lab2\BoolPlugin\bin\Debug\netstandard2.0\BoolPlugin.pdb
+E:\University_needs\СПП\lab2\BoolPlugin\bin\Debug\netstandard2.0\FakerGeneratorInterfases.dll
+E:\University_needs\СПП\lab2\BoolPlugin\bin\Debug\netstandard2.0\FakerGeneratorInterfases.pdb
+E:\University_needs\СПП\lab2\BoolPlugin\obj\Debug\netstandard2.0\BoolPlugin.csprojAssemblyReference.cache
+E:\University_needs\СПП\lab2\BoolPlugin\obj\Debug\netstandard2.0\BoolPlugin.csproj.CopyComplete
+E:\University_needs\СПП\lab2\BoolPlugin\obj\Debug\netstandard2.0\BoolPlugin.dll
+E:\University_needs\СПП\lab2\BoolPlugin\obj\Debug\netstandard2.0\BoolPlugin.pdb

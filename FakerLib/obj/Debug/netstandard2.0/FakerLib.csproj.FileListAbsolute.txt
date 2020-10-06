@@ -1,0 +1,12 @@
+E:\University_needs\СПП\lab2\FakerLib\obj\Debug\netstandard2.0\FakerLib.AssemblyInfoInputs.cache
+E:\University_needs\СПП\lab2\FakerLib\obj\Debug\netstandard2.0\FakerLib.AssemblyInfo.cs
+E:\University_needs\СПП\lab2\FakerLib\obj\Debug\netstandard2.0\FakerLib.csproj.CoreCompileInputs.cache
+E:\University_needs\СПП\lab2\FakerLib\bin\Debug\netstandard2.0\FakerLib.deps.json
+E:\University_needs\СПП\lab2\FakerLib\bin\Debug\netstandard2.0\FakerLib.dll
+E:\University_needs\СПП\lab2\FakerLib\bin\Debug\netstandard2.0\FakerLib.pdb
+E:\University_needs\СПП\lab2\FakerLib\bin\Debug\netstandard2.0\FakerGeneratorInterfases.dll
+E:\University_needs\СПП\lab2\FakerLib\bin\Debug\netstandard2.0\FakerGeneratorInterfases.pdb
+E:\University_needs\СПП\lab2\FakerLib\obj\Debug\netstandard2.0\FakerLib.csprojAssemblyReference.cache
+E:\University_needs\СПП\lab2\FakerLib\obj\Debug\netstandard2.0\FakerLib.csproj.CopyComplete
+E:\University_needs\СПП\lab2\FakerLib\obj\Debug\netstandard2.0\FakerLib.dll
+E:\University_needs\СПП\lab2\FakerLib\obj\Debug\netstandard2.0\FakerLib.pdb

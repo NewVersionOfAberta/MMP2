@@ -1,0 +1,8 @@
+E:\University_needs\СПП\lab2\FakerGeneratorInterfases\bin\Debug\netstandard2.0\FakerGeneratorInterfases.deps.json
+E:\University_needs\СПП\lab2\FakerGeneratorInterfases\bin\Debug\netstandard2.0\FakerGeneratorInterfases.dll
+E:\University_needs\СПП\lab2\FakerGeneratorInterfases\bin\Debug\netstandard2.0\FakerGeneratorInterfases.pdb
+E:\University_needs\СПП\lab2\FakerGeneratorInterfases\obj\Debug\netstandard2.0\FakerGeneratorInterfases.AssemblyInfoInputs.cache
+E:\University_needs\СПП\lab2\FakerGeneratorInterfases\obj\Debug\netstandard2.0\FakerGeneratorInterfases.AssemblyInfo.cs
+E:\University_needs\СПП\lab2\FakerGeneratorInterfases\obj\Debug\netstandard2.0\FakerGeneratorInterfases.csproj.CoreCompileInputs.cache
+E:\University_needs\СПП\lab2\FakerGeneratorInterfases\obj\Debug\netstandard2.0\FakerGeneratorInterfases.dll
+E:\University_needs\СПП\lab2\FakerGeneratorInterfases\obj\Debug\netstandard2.0\FakerGeneratorInterfases.pdb

@@ -1,0 +1,12 @@
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\bin\Debug\netstandard2.0\StringGeneratorPlugin.deps.json
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\bin\Debug\netstandard2.0\StringGeneratorPlugin.dll
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\bin\Debug\netstandard2.0\StringGeneratorPlugin.pdb
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\bin\Debug\netstandard2.0\FakerGeneratorInterfases.dll
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\bin\Debug\netstandard2.0\FakerGeneratorInterfases.pdb
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\obj\Debug\netstandard2.0\StringGeneratorPlugin.csprojAssemblyReference.cache
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\obj\Debug\netstandard2.0\StringGeneratorPlugin.AssemblyInfoInputs.cache
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\obj\Debug\netstandard2.0\StringGeneratorPlugin.AssemblyInfo.cs
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\obj\Debug\netstandard2.0\StringGeneratorPlugin.csproj.CoreCompileInputs.cache
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\obj\Debug\netstandard2.0\StringGeneratorPlugin.csproj.CopyComplete
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\obj\Debug\netstandard2.0\StringGeneratorPlugin.dll
+E:\University_needs\СПП\lab2\StringGeneratorPlugin\obj\Debug\netstandard2.0\StringGeneratorPlugin.pdb
