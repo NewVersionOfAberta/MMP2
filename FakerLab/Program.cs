@@ -15,9 +15,37 @@ namespace FakerLab
     {
         class Generator : ISimpleGenerator
         {
+            private static readonly string[] RAND_STRING = { "It", "starts", "with", "one", "thing" ," ",
+                                                        "Memories", "consume", "like", "opening", "the", "wound", " ",
+                                                        "Sometimes", "I", "need", "to", "remember", "just", "to", "breath", " ",
+                                                        "When", "this", "began", "I", "had", "nothing", "to", "say", " ",
+                                                        "I", "don't", "know", "who", "to", "trust" };
+            Random rnd = new Random();
+
             public object Generate()
             {
-                return 2;
+
+                int index;
+                string temp = "";
+                for (int i = 0; i < rnd.Next(RAND_STRING.Length); i++)
+                {
+                    index = rnd.Next(RAND_STRING.Length);
+                    temp += RAND_STRING[index];
+                }
+                return temp;
+
+            }
+        }
+        class GeneratorInt : ISimpleGenerator
+        {
+           
+            Random rnd = new Random();
+
+            public object Generate()
+            {
+
+                return rnd.Next() % 5;
+
             }
         }
 
@@ -25,7 +53,7 @@ namespace FakerLab
         {
             Faker faker = new Faker();
             FakerConfig fakerConfig = new FakerConfig();
-            fakerConfig.Add<Foo, int, Generator>(a => a.b);
+            fakerConfig.Add<Foo, int, GeneratorInt>(a => a.b);
 
             
             Foo foo = faker.Create<Foo>();
